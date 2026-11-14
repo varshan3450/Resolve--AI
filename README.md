@@ -1,24 +1,24 @@
- ResolveAI – AI-Based Complaint Management and Resolution Assistant 
+ ## ResolveAI – AI-Based Complaint Management and Resolution Assistant 
 
 Turning Complaints into Resolutions with Artificial Intelligence
 
- About the Project
+## About the Project
 
 ResolveAI is an AI-powered complaint management system that simplifies the process of submitting, analysing, tracking, and resolving complaints.
 
 It uses Google Gemini AI to analyse complaints, automatically identify their categories, detect priority levels, and recommend the appropriate department for faster resolution.
 
- Problem Statement
+## Problem Statement
 
 Traditional complaint management systems often depend on manual processes, resulting in delays, incorrect complaint assignments, difficulty identifying urgent issues, and a lack of transparency in complaint tracking.
 
- Proposed Solution
+ ## Proposed Solution
 
 ResolveAI provides an intelligent platform that automates complaint analysis and assists administrators in managing complaints efficiently.
 
 The system analyses complaints using AI and provides relevant information to help administrators make faster decisions.
 
-  Key Features
+ ## Key Features
 
 - AI-powered complaint analysis.
 - Automatic complaint categorisation.
@@ -31,7 +31,7 @@ The system analyses complaints using AI and provides relevant information to hel
 - AI-generated resolution summaries.
 - Multilingual support (planned enhancement).
 
-## ⚙️ Working Process
+##  Working Process
 
 1. User submits a complaint.
 2. Gemini AI analyses the complaint.
@@ -42,7 +42,7 @@ The system analyses complaints using AI and provides relevant information to hel
 7. User tracks complaint progress.
 8. Complaint is closed with a resolution summary.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Flask
@@ -50,7 +50,7 @@ The system analyses complaints using AI and provides relevant information to hel
 - **AI Integration:** Google Gemini API
 - **Development Tool:** Visual Studio Code
 
-## 🏗️ System Architecture
+##  System Architecture
 
 
 User
