@@ -1,4 +1,4 @@
-# ResolveAI – AI-Based Complaint Management and Resolution Assistant 🤖
+# ResolveAI – AI-Based Complaint Management and Resolution Assistant 
 
 ### Turning Complaints into Resolutions with Artificial Intelligence
 
