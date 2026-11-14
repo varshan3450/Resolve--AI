@@ -1,24 +1,24 @@
-# ResolveAI – AI-Based Complaint Management and Resolution Assistant 
+ ResolveAI – AI-Based Complaint Management and Resolution Assistant 
 
-### Turning Complaints into Resolutions with Artificial Intelligence
+Turning Complaints into Resolutions with Artificial Intelligence
 
-##  About the Project
+ About the Project
 
 ResolveAI is an AI-powered complaint management system that simplifies the process of submitting, analysing, tracking, and resolving complaints.
 
 It uses Google Gemini AI to analyse complaints, automatically identify their categories, detect priority levels, and recommend the appropriate department for faster resolution.
 
-##  Problem Statement
+ Problem Statement
 
 Traditional complaint management systems often depend on manual processes, resulting in delays, incorrect complaint assignments, difficulty identifying urgent issues, and a lack of transparency in complaint tracking.
 
-##  Proposed Solution
+ Proposed Solution
 
 ResolveAI provides an intelligent platform that automates complaint analysis and assists administrators in managing complaints efficiently.
 
 The system analyses complaints using AI and provides relevant information to help administrators make faster decisions.
 
-##  Key Features
+  Key Features
 
 - AI-powered complaint analysis.
 - Automatic complaint categorisation.
@@ -83,9 +83,7 @@ Complaint Resolution
 Status Tracking
 ```
 
-
-
-##  Future Enhancements
+Future Enhancements
 
 - Mobile application integration.
 - Voice-based complaint submission.
@@ -95,7 +93,7 @@ Status Tracking
 - Improved multilingual support.
 - Integration with institutional and government portals.
 
-##  Benefits
+ Benefits
 
 - Reduces manual complaint processing.
 - Improves complaint classification.
@@ -104,7 +102,7 @@ Status Tracking
 - Improves transparency and accountability.
 - Supports efficient complaint resolution.
 
-##  Security
+ Security
 
 - Store API keys in environment variables.
 - Never upload passwords or secret keys to GitHub.
@@ -112,16 +110,8 @@ Status Tracking
 - Protect users' personal information.
 - Review AI-generated recommendations before taking action.
 
-## 👥 Team Members
 
-Add your hackathon team members here:
-
-1. Your Name
-2. Team Member 2
-3. Team Member 3
-4. Team Member 4
-
-## Project Details
+Project Details
 
 - **Project Name:** ResolveAI
 - **Domain:** Artificial Intelligence
@@ -130,10 +120,5 @@ Add your hackathon team members here:
 - **Developed For:** College Hackathon
 - **Status:** Prototype
 
-##  License
-
-This project is licensed under the MIT License.
-
----
 
 ### ResolveAI – Turning Complaints into Resolutions with AI! 🚀
